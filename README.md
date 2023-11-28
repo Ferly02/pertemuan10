@@ -122,7 +122,7 @@ for z in list.items():
 >`list.items():` memanggil isi dari variable list, `.format`  Digunakan untuk mengatur format string yang nantinya akan dicetak atau ditampilkan ke layar.<br>
 
 >Apabila kita menginput 'l/L' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
-<img src="praktikum 5/ss 1.png">
+<img src="">
 
 
 ### Keluar program
@@ -135,7 +135,7 @@ for z in list.items():
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/U/H/C/L] untuk menjalankan program!".format(c))
 ```
 ><b>Program untuk menghentikan perulangan</b><br>Jika menginput"k/K" program akan berhenti melakukan perulangan dan otomatis keluar dari program
-<img src="praktikum 5/ss 2.png">
+<img src="pratikum 5/Screenshot 2.png">
 
 ### Hasil program
 <p align="center"> <img src="praktikum 5/praktikum 5.png">
