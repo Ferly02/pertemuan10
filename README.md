@@ -138,7 +138,7 @@ for z in list.items():
 <img src="pratikum 5/Screenshot 2.png">
 
 ### Hasil program
-<p align="center"> <img src="praktikum 5/praktikum 5.png">
+<p align="center"> <img src="pratikum 5/Screenshot PRATIKUM 5.png">
 </p>
 
 >Hasil hanya sebagian dari fungsi program
